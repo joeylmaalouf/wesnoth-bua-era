@@ -1,8 +1,6 @@
 # BUA Era
 
-----
-
-### Overview
+## Overview
 
 This era adds a few factions for our own personal use. There's no overall theme; they're just what we wanted to see in the game. Everything is roughly in line with the default factions, and these factions are meant to be played alongside them.
 
@@ -14,13 +12,13 @@ To use this era:
 
 ----
 
-### Gold Guards
+## Gold Guards
 
-##### Description
+### Description
 
 Despite butting heads many times in the past, modern drakes and dwarves have formed an alliance. Bonding over their shared love of gold, gemstones, and other precious treasure, these two races will do whatever it takes to defend their hoards.
 
-##### Units
+### Units
 
 Note: __bolded__ units are new, custom units; the rest are untouched from mainline Wesnoth (though _italicized_ units have been set as potential advancements so that they can actually be used).
 
@@ -51,7 +49,7 @@ Note: __bolded__ units are new, custom units; the rest are untouched from mainli
   - Darvish Stalwart
     - Dwarvish Sentinel
 
-##### Tactics
+### Tactics
 
 Drakes are able to cross most terrain easily to hit their enemies, and dwarves are able to find good places to defend from their foes, but they have a common weakness: they're slow. You may not have the raw movement to play a hit-and-run game, but proper positioning will ensure that you get the most value out of your strong offensive and defensive units.
 
@@ -61,34 +59,32 @@ Defensively, make sure to get your dwarves set up in mountains and hills, while 
 
 ----
 
-### [TODO]
+## [TODO]
 
-##### Description
-
-[TODO]
-
-##### Units
+### Description
 
 [TODO]
 
-##### Tactics
+### Units
 
 [TODO]
 
-----
-
-### [TODO]
-
-##### Description
-
-[TODO]
-
-##### Units
-
-[TODO]
-
-##### Tactics
+### Tactics
 
 [TODO]
 
 ----
+
+## [TODO]
+
+### Description
+
+[TODO]
+
+### Units
+
+[TODO]
+
+### Tactics
+
+[TODO]

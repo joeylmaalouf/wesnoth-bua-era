@@ -10,9 +10,7 @@ To use this era:
 - rename the folder containing everything to `BUA_Era`
 - put that folder in `[your wesnoth install]\userdata\data\add-ons`
 
-----
-
-## Gold Guards
+## GoldGuards
 
 ### Description
 
@@ -57,8 +55,6 @@ Offensively, you have a good mix of damage types; make sure to keep a variety of
 
 Defensively, make sure to get your dwarves set up in mountains and hills, while filling in any gaps in the line with your less-terrain-reliant drakes.
 
-----
-
 ## [TODO]
 
 ### Description
@@ -72,8 +68,6 @@ Defensively, make sure to get your dwarves set up in mountains and hills, while 
 ### Tactics
 
 [TODO]
-
-----
 
 ## [TODO]
 

@@ -4,6 +4,8 @@
 
 This era adds a few factions for our own personal use. There's no overall theme; they're just what we wanted to see in the game. Everything is roughly in line with the default factions, and these factions are meant to be played alongside them.
 
+## Installation
+
 To use this era:
 
 - download the contents of this repository

@@ -37,6 +37,7 @@ Note: __bolded__ units are new, custom units; the rest are untouched from mainli
     - Drake Blademaster
 - __Drake Rider__
   - __Drake Lancer__
+    - __Drake Stormrider__
 - __Dwarvish Acolyte__
   - __Dwarvish Cleric__
     - __Dwarvish Warpriest__
@@ -51,11 +52,11 @@ Note: __bolded__ units are new, custom units; the rest are untouched from mainli
 
 ### Tactics
 
-Drakes are able to cross most terrain easily to hit their enemies, and dwarves are able to find good places to defend from their foes, but they have a common weakness: they're slow. You may not have the raw movement to play a hit-and-run game, but proper positioning will ensure that you get the most value out of your strong offensive and defensive units.
+Drakes are able to cross most terrain easily to hit their enemies hard, and dwarves are able to find good places to defend from their foes, but these units have a common weakness: they're expensive. You may not always be able to recruit a large number of units, but proper positioning will ensure that you get the most value out of your relatively strong individual units.
 
-Offensively, you have a good mix of damage types; make sure to keep a variety of units alive, to always have the right one for the job!
+Offensively, you have a good mix of damage types; make sure to keep a variety of units alive, to always have the right one for the job! Your drakes will often prove a little more useful in actively giving chase and wearing down an enemy.
 
-Defensively, make sure to get your dwarves set up in mountains and hills, while filling in any gaps in the line with your less-terrain-reliant drakes.
+Defensively, make sure to get your dwarves set up in mountains and hills, while filling in any gaps in the line with your less-terrain-reliant drakes. Your dwarves will often be the key to holding an unbroken line.
 
 ## [TODO]
 

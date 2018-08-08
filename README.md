@@ -62,7 +62,7 @@ Offensively, you have a good mix of damage types; make sure to keep a variety of
 
 Defensively, make sure to get your dwarves set up in mountains and hills, while filling in any gaps in the line with your less-terrain-reliant drakes. Your dwarves will often be the key to holding an unbroken line.
 
-## [TODO]
+## Lycanthropes
 
 ### Description
 
@@ -70,7 +70,8 @@ Defensively, make sure to get your dwarves set up in mountains and hills, while 
 
 ### Units
 
-[TODO]
+- Swordsman | Werewolf
+- [TODO]
 
 ### Tactics
 

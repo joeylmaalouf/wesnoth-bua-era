@@ -70,8 +70,20 @@ Defensively, make sure to get your dwarves set up in mountains and hills, while 
 
 ### Units
 
-- Swordsman | Werewolf
-- [TODO]
+Note: The Bestial units transform into their Werecreature forms at dusk, and vice-versa at dawn.
+
+- Bestial Archer <=> Weremonkey
+  - Bestial Sniper <=> Dire Weremonkey
+- Bestial Charger <=> Weretiger
+  - Bestial Lancer <=> Dire Weretiger
+- Bestial Mage <=> Wereowl
+  - Bestial Druid <=> Dire Wereowl
+- Bestial Runner <=> Werefox
+  - Bestial Duelist <=> Dire Werefox
+- Bestial Swordsman <=> Werewolf
+  - Bestial Commander <=> Dire Werewolf
+- Bestial Trooper <=> Werebear
+  - Bestial Guardian <=> Dire Werebear
 
 ### Tactics
 

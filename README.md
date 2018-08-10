@@ -20,7 +20,7 @@ Despite butting heads many times in the past, modern drakes and dwarves have for
 
 ### Units
 
-Note: __bolded__ units are new, custom units; the rest are untouched from mainline Wesnoth (though _italicized_ units have been set as potential advancements so that they can actually be used).
+Notes: __bolded__ units are new, custom units; the rest are untouched from mainline Wesnoth (though _italicized_ units have been set as potential advancements so that they can actually be used).
 
 - Drake Burner
   - Drake Flare
@@ -70,7 +70,7 @@ Defensively, make sure to get your dwarves set up in mountains and hills, while 
 
 ### Units
 
-Note: The Bestial units transform into their Werecreature forms at dusk, and vice-versa at dawn.
+Notes: Every unit in this faction is new. The Bestial units transform into their Werecreature forms at dusk, and vice-versa at dawn.
 
 - Bestial Archer <=> Weremonkey
   - Bestial Sniper <=> Dire Weremonkey
@@ -85,19 +85,9 @@ Note: The Bestial units transform into their Werecreature forms at dusk, and vic
 - Bestial Trooper <=> Werebear
   - Bestial Guardian <=> Dire Werebear
 
-### Tactics
+![Lycanthropes](/images/readme/Lycanthropes/all.gif?raw=true "Lycanthropes")
 
-[TODO]
-
-## [TODO]
-
-### Description
-
-[TODO]
-
-### Units
-
-[TODO]
+[(Background image source)](https://www.wallpaperup.com/48540/fantasy_forest_ruins_buildings_jungles.html)
 
 ### Tactics
 

@@ -47,8 +47,12 @@ Note: __bolded__ units are new, custom units; the rest are untouched from mainli
   - Dwarvish Steelclad
     - Dwarvish Lord
 - Dwarvish Guardsman
-  - Darvish Stalwart
+  - Dwarvish Stalwart
     - Dwarvish Sentinel
+
+![GoldGuards](/images/readme/GoldGuards/all.gif?raw=true "GoldGuards")
+
+[(Background image source)](https://getwallpapersinhd.com/150391-the_treasures_of_montezuma_3)
 
 ### Tactics
 

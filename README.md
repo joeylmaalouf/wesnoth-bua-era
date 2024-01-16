@@ -8,9 +8,9 @@ This era adds a few factions for our own personal use. There's no overall theme;
 
 To use this era:
 
-- download the contents of this repository
-- rename the folder containing everything to `BUA_Era`
-- put that folder in `[your wesnoth install]\userdata\data\add-ons`
+* download the contents of this repository
+* rename the folder containing everything to `BUA_Era`
+* put that folder in `[your wesnoth install]\userdata\data\add-ons`
 
 ## GoldGuards
 
@@ -22,33 +22,33 @@ Despite butting heads many times in the past, modern drakes and dwarves have for
 
 Notes: __bolded__ units are new, custom units; the rest are untouched from mainline Wesnoth (though _italicized_ units have been set as potential advancements so that they can actually be used).
 
-- Drake Burner
-  - Drake Flare
-    - Drake Flameheart
-  - Fire Drake
-    - Inferno Drake
-- Drake Clasher
-  - Drake Arbiter
-    - Drake Warden
-  - Drake Thrasher
-    - Drake Enforcer
-- Drake Fighter
-  - Drake Warrior
-    - Drake Blademaster
-- __Drake Rider__
-  - __Drake Lancer__
-    - __Drake Stormrider__
-- __Dwarvish Acolyte__
-  - __Dwarvish Cleric__
-    - __Dwarvish Warpriest__
-- Dwarvish Fighter
-  - _Dwarvish Runesmith_
-    - _Dwarvish Runemaster_
-  - Dwarvish Steelclad
-    - Dwarvish Lord
-- Dwarvish Guardsman
-  - Dwarvish Stalwart
-    - Dwarvish Sentinel
+* Drake Burner
+  * Drake Flare
+    * Drake Flameheart
+  * Fire Drake
+    * Inferno Drake
+* Drake Clasher
+  * Drake Arbiter
+    * Drake Warden
+  * Drake Thrasher
+    * Drake Enforcer
+* Drake Fighter
+  * Drake Warrior
+    * Drake Blademaster
+* __Drake Rider__
+  * __Drake Lancer__
+    * __Drake Stormrider__
+* __Dwarvish Acolyte__
+  * __Dwarvish Cleric__
+    * __Dwarvish Warpriest__
+* Dwarvish Fighter
+  * _Dwarvish Runesmith_
+    * _Dwarvish Runemaster_
+  * Dwarvish Steelclad
+    * Dwarvish Lord
+* Dwarvish Guardsman
+  * Dwarvish Stalwart
+    * Dwarvish Sentinel
 
 ![GoldGuards](/images/readme/GoldGuards/all.gif?raw=true "GoldGuards")
 
@@ -70,20 +70,20 @@ Defensively, make sure to get your dwarves set up in mountains and hills, while 
 
 ### Units
 
-Notes: Every unit in this faction is new. The Bestial units transform into their Werecreature forms at dusk, and vice-versa at dawn.
+Notes: Every unit in this faction is new. The Bestial Human units transform into their Werecreature forms at dusk, and vice-versa at dawn.
 
-- Bestial Archer <=> Weremonkey
-  - Bestial Sniper <=> Dire Weremonkey
-- Bestial Charger <=> Weretiger
-  - Bestial Lancer <=> Dire Weretiger
-- Bestial Mage <=> Wereowl
-  - Bestial Druid <=> Dire Wereowl
-- Bestial Runner <=> Werefox
-  - Bestial Duelist <=> Dire Werefox
-- Bestial Swordsman <=> Werewolf
-  - Bestial Commander <=> Dire Werewolf
-- Bestial Trooper <=> Werebear
-  - Bestial Guardian <=> Dire Werebear
+* Bestial Archer <=> Weremonkey
+  * Bestial Sniper <=> Dire Weremonkey
+* Bestial Charger <=> Weretiger
+  * Bestial Lancer <=> Dire Weretiger
+* Bestial Mage <=> Wereowl
+  * Bestial Druid <=> Dire Wereowl
+* Bestial Runner <=> Werefox
+  * Bestial Duelist <=> Dire Werefox
+* Bestial Swordsman <=> Werewolf
+  * Bestial Commander <=> Dire Werewolf
+* Bestial Trooper <=> Werebear
+  * Bestial Guardian <=> Dire Werebear
 
 ![Lycanthropes](/images/readme/Lycanthropes/all.gif?raw=true "Lycanthropes")
 
@@ -92,3 +92,17 @@ Notes: Every unit in this faction is new. The Bestial units transform into their
 ### Tactics
 
 [TODO]
+
+## To-Do List
+
+* stats
+  * all lycanthropes (note: keep same cost/hp/xp/usage across forms)
+* base sprites
+  * all lycanthropes
+* animations/fx
+  * Drake Rider: defend, spear, fire breath
+  * Drake Lancer: idle, defend, lance, fire breath
+  * Drake Stormrider: idle, defend, lance, fire breath
+  * Dwarvish Cleric: idle, defend, book, lightbeam
+  * Dwarvish Warpriest: idle, defend, book, lightbeam
+  * all lycanthropes

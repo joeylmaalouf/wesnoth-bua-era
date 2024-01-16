@@ -62,15 +62,15 @@ Offensively, you have a good mix of damage types; make sure to keep a variety of
 
 Defensively, make sure to get your dwarves set up in mountains and hills, while filling in any gaps in the line with your less-terrain-reliant drakes. Your dwarves will often be the key to holding an unbroken line.
 
-## Lycanthropes
+## Therianthropes
 
 ### Description
 
-[TODO]
+Considered a curse by outsiders and a blessing by the tribes themselves, therianthropy runs in the blood of these humans. Territorial in either form, they react poorly to the presence of those they deem as invaders.
 
 ### Units
 
-Notes: Every unit in this faction is new. The Bestial Human units transform into their Werecreature forms at dusk, and vice-versa at dawn.
+Notes: Every unit in this faction is new. The bestial human units transform into their werecreature forms at dusk, and vice-versa at dawn.
 
 * Bestial Archer <=> Weremonkey
   * Bestial Sniper <=> Dire Weremonkey
@@ -85,24 +85,24 @@ Notes: Every unit in this faction is new. The Bestial Human units transform into
 * Bestial Trooper <=> Werebear
   * Bestial Guardian <=> Dire Werebear
 
-![Lycanthropes](/images/readme/Lycanthropes/all.gif?raw=true "Lycanthropes")
+![Therianthropes](/images/readme/Therianthropes/all.gif?raw=true "Therianthropes")
 
 [(Background image source)](https://www.wallpaperup.com/48540/fantasy_forest_ruins_buildings_jungles.html)
 
 ### Tactics
 
-[TODO]
+Werecreatures are generally more mobile than their bestial human counterparts, while human tools are generally more effective in combat than natural weapons. You might find it effective to move under the cover of night and strike as day breaks.
 
 ## To-Do List
 
 * stats
-  * all lycanthropes (note: keep same cost/hp/xp/usage across forms)
+  * all therianthropes (note: keep same cost/hp/xp/usage across forms)
 * base sprites
-  * all lycanthropes
+  * all therianthropes
 * animations/fx
   * Drake Rider: defend, spear, fire breath
   * Drake Lancer: idle, defend, lance, fire breath
   * Drake Stormrider: idle, defend, lance, fire breath
   * Dwarvish Cleric: idle, defend, book, lightbeam
   * Dwarvish Warpriest: idle, defend, book, lightbeam
-  * all lycanthropes
+  * all therianthropes

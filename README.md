@@ -95,6 +95,8 @@ Werecreatures are generally more mobile than their bestial human counterparts, w
 
 ## To-Do List
 
+* descriptions
+  * all therianthropes
 * base sprites
   * all therianthropes
 * animations/fx

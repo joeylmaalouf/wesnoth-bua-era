@@ -95,8 +95,6 @@ Werecreatures are generally more mobile than their bestial human counterparts, w
 
 ## To-Do List
 
-* stats
-  * all therianthropes (note: keep same cost/hp/xp/usage across forms)
 * base sprites
   * all therianthropes
 * animations/fx

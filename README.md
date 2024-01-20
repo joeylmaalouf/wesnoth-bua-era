@@ -10,7 +10,7 @@ To use this era:
 
 * download the contents of this repository
 * rename the folder containing everything to `BUA_Era`
-* put that folder in `[your wesnoth install]\userdata\data\add-ons`
+* put that folder in [[user data](https://wiki.wesnoth.org/Editingwesnoth#The_user_data_directory)]`/data/add-ons`
 
 ## GoldGuards
 
@@ -80,6 +80,8 @@ Notes: Every unit in this faction is new. The bestial human units transform into
   * Bestial Druid <=> Dire Wereowl
 * Bestial Runner <=> Werefox
   * Bestial Duelist <=> Dire Werefox
+* Bestial Swimmer <=> Wereserpent
+  * Bestial Captain <=> Dire Wereserpent
 * Bestial Swordsman <=> Werewolf
   * Bestial Commander <=> Dire Werewolf
 * Bestial Trooper <=> Werebear

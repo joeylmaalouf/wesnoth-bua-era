@@ -97,8 +97,6 @@ Werecreatures are generally more mobile than their bestial human counterparts, w
 
 ## To-Do List
 
-* descriptions
-  * all therianthropes
 * animations/fx
   * Drake Rider: defend, spear, fire breath
   * Drake Lancer: idle, defend, lance, fire breath
